@@ -14,4 +14,5 @@ else:
 if aniversariante == True or ingresso == True:
     print ('acesso liberado')
 else:
-    print('acesso negado, compre um ingresso na portaria')  
+    print('acesso negado, compre um ingresso na portaria ou pelo site')
+      
